@@ -1,7 +1,7 @@
 package tech.ula.utils
 
 import android.content.Context
-import android.util.Log
+import andro id.utils.Log
 import io.sentry.Sentry
 import io.sentry.android.AndroidSentryClientFactory
 import io.sentry.event.BreadcrumbBuilder
